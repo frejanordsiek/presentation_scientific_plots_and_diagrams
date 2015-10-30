@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2015-10-28T12:10:07.101425038</meta:creation-date><meta:editing-duration>P0D</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:generator>LibreOffice/4.4.2.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:title>Plots &amp; Diagrams for Presentations, Papers, &amp; Theses</dc:title><meta:document-statistic meta:object-count="224"/></office:meta>
+ <office:meta><meta:creation-date>2015-10-28T12:10:07.101425038</meta:creation-date><meta:editing-duration>P0D</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:generator>LibreOffice/4.4.2.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:title>Plots &amp; Diagrams for Presentations, Papers, &amp; Theses</dc:title><meta:document-statistic meta:object-count="230"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-2878</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">-407</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">28958</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">26835</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">28959</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">26836</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">35</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">20</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">false</config:config-item>
@@ -260,15 +260,6 @@
   <style:style style:name="gray3" style:family="table-cell" style:parent-style-name="default">
    <style:graphic-properties draw:fill="solid" draw:fill-color="#b3b3b3"/>
   </style:style>
-  <table:table-template text:style-name="default">
-   <table:first-row table:style-name="gray3"/>
-   <table:last-row table:style-name="gray3"/>
-   <table:first-column table:style-name="gray3"/>
-   <table:last-column table:style-name="gray3"/>
-   <table:odd-rows table:style-name="gray2"/>
-   <table:odd-columns table:style-name="gray2"/>
-   <table:body table:style-name="gray1"/>
-  </table:table-template>
   <style:style style:name="Default-background" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
    <style:text-properties style:letter-kerning="true"/>
@@ -550,22 +541,25 @@
   <style:style style:name="gr20" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="6.632cm"/>
   </style:style>
-  <style:style style:name="gr21" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties svg:stroke-width="0.178cm" svg:stroke-color="#000000" draw:marker-start-width="0.466cm" draw:marker-end-width="0.466cm" draw:fill="solid" draw:fill-color="#ff0000" draw:textarea-vertical-align="middle" fo:padding-top="0.213cm" fo:padding-bottom="0.213cm" fo:padding-left="0.338cm" fo:padding-right="0.338cm"/>
+  <style:style style:name="gr21" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
+   <style:graphic-properties draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none"/>
   </style:style>
   <style:style style:name="gr22" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.712cm" fo:min-width="1.484cm"/>
+   <style:graphic-properties svg:stroke-width="0.178cm" svg:stroke-color="#000000" draw:marker-start-width="0.466cm" draw:marker-end-width="0.466cm" draw:fill="solid" draw:fill-color="#ff0000" draw:textarea-vertical-align="middle" fo:padding-top="0.213cm" fo:padding-bottom="0.213cm" fo:padding-left="0.338cm" fo:padding-right="0.338cm"/>
   </style:style>
   <style:style style:name="gr23" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.712cm" fo:min-width="1.835cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.712cm" fo:min-width="1.484cm"/>
   </style:style>
   <style:style style:name="gr24" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="2.173cm" fo:min-width="8.003cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.712cm" fo:min-width="1.835cm"/>
   </style:style>
   <style:style style:name="gr25" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="18.309cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="2.173cm" fo:min-width="8.003cm"/>
   </style:style>
   <style:style style:name="gr26" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="18.309cm"/>
+  </style:style>
+  <style:style style:name="gr27" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="19.097cm"/>
   </style:style>
   <style:style style:name="pr1" style:family="presentation" style:parent-style-name="Default-backgroundobjects">
@@ -878,17 +872,21 @@
    <style:text-properties style:font-name="Arial"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="28pt"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ff0000"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph">
+  <style:style style:name="P20" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph">
+  <style:style style:name="P21" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:text-properties style:font-name="Courier1"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph">
+  <style:style style:name="P22" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:line-height="150%"/>
    <style:text-properties style:font-name="Arial" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
@@ -978,18 +976,21 @@
    <style:text-properties fo:font-size="20pt"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties style:font-name="Arial" fo:font-size="22pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="22pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="22pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="22pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties style:font-name="Arial2" fo:font-size="22pt" fo:font-style="normal" style:font-name-asian="Arial2" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="22pt" style:font-style-complex="normal"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="22pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="22pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties style:font-name="Arial" fo:font-size="22pt" fo:font-style="normal" style:font-name-asian="Arial2" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="22pt" style:font-style-complex="normal"/>
+   <style:text-properties style:font-name="Arial2" fo:font-size="22pt" fo:font-style="normal" style:font-name-asian="Arial2" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="22pt" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties style:font-name="Courier1" fo:font-size="22pt" fo:font-style="normal" style:font-name-asian="Arial2" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="22pt" style:font-style-complex="normal"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="22pt" fo:font-style="normal" style:font-name-asian="Arial2" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="22pt" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
+   <style:text-properties style:font-name="Courier1" fo:font-size="22pt" fo:font-style="normal" style:font-name-asian="Arial2" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="22pt" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
    <style:text-properties style:font-name="Arial" fo:font-size="20pt" fo:font-style="normal" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-size-complex="20pt" style:font-style-complex="normal"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -1156,6 +1157,7 @@
    </draw:frame>
   </style:handout-master>
   <style:master-page style:name="Default" style:page-layout-name="PM1" draw:style-name="dp1">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <draw:frame presentation:style-name="Default-title" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
@@ -1220,6 +1222,7 @@
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="Default-title" draw:layer="backgroundobjects" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" presentation:class="page"/>
     <draw:frame presentation:style-name="Default-notes" draw:layer="backgroundobjects" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -1378,6 +1381,9 @@
          </text:list-item>
          <text:list-item>
           <text:p><text:span text:style-name="T7">Revisiting examples</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T7">Tips &amp; Tricks</text:span></text:p>
          </text:list-item>
          <text:list-item>
           <text:p><text:span text:style-name="T7">Mediums – presentations, papers, theses</text:span></text:p>
@@ -4102,11 +4108,81 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page19" draw:style-name="dp4" draw:master-page-name="Default">
+   <draw:page draw:name="page19" draw:style-name="dp3" draw:master-page-name="Default">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr6" draw:text-style-name="P11" draw:layer="layout" svg:width="28cm" svg:height="1.356cm" svg:x="0cm" svg:y="0.508cm">
      <draw:text-box>
       <text:p text:style-name="P7"><text:span text:style-name="T6">Tips &amp; Tricks – Scales</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:width="12.734cm" svg:height="17.814cm" svg:x="14.605cm" svg:y="2.506cm">
+     <draw:image xlink:href="plots/eps/convergence_of_J0_scales.eps" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr19" draw:text-style-name="P12" draw:layer="layout" svg:width="14.097cm" svg:height="18.542cm" svg:x="0.508cm" svg:y="2.549cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T16">Different axes scales</text:span></text:p>
+      <text:list text:style-name="L1">
+       <text:list-item>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T16">Show different features</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T16">Emphasize different regions</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T16">Make different regions comparable</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+      <text:p><text:span text:style-name="T16"/></text:p>
+      <text:p><text:span text:style-name="T16">Linear and logarithmic</text:span></text:p>
+      <text:list text:continue-numbering="true" text:style-name="L1">
+       <text:list-item>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T16">Widely supported</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T16">Natural for many kinds of data</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+      <text:p><text:span text:style-name="T16"/></text:p>
+      <text:p><text:span text:style-name="T16">Custom scales</text:span></text:p>
+      <text:list text:continue-numbering="true" text:style-name="L1">
+       <text:list-item>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T16">Not as widely supported</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T16">Requires more work</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T16">Can be very powerful</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+      <text:p><text:span text:style-name="T29"/></text:p>
+      <text:p><text:span text:style-name="T29">Words of warning</text:span></text:p>
+      <text:list text:continue-numbering="true" text:style-name="L1">
+       <text:list-item>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T29">Not everything is a powerlaw</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T29">Sometimes helpful to show with multiple scales</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -4116,25 +4192,82 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page20" draw:style-name="dp4" draw:master-page-name="Default">
+   <draw:page draw:name="page20" draw:style-name="dp3" draw:master-page-name="Default">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr6" draw:text-style-name="P11" draw:layer="layout" svg:width="28cm" svg:height="1.356cm" svg:x="0cm" svg:y="0.508cm">
      <draw:text-box>
-      <text:p text:style-name="P7"><text:span text:style-name="T6">Tips &amp; Tricks – Boxes</text:span></text:p>
+      <text:p text:style-name="P18"><text:span text:style-name="T6">Tips &amp; Tricks – Grids</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:width="12.734cm" svg:height="17.814cm" svg:x="14.605cm" svg:y="2.506cm">
+     <draw:image xlink:href="plots/eps/convergence_of_J0_grids.eps" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr19" draw:text-style-name="P12" draw:layer="layout" svg:width="14.097cm" svg:height="18.542cm" svg:x="0.509cm" svg:y="2.549cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T29">Grids can sometimes make a plot more clear.</text:span></text:p>
+      <text:p><text:span text:style-name="T29"/></text:p>
+      <text:p><text:span text:style-name="T29">But sometimes they cause clutter and make plots harder to read.</text:span></text:p>
+      <text:p><text:span text:style-name="T29"/></text:p>
+      <text:p><text:span text:style-name="T29">Grids tend to be more useful in full-page loglog plots.</text:span></text:p>
+      <text:p><text:span text:style-name="T29"/></text:p>
+      <text:p><text:span text:style-name="T29">Partial grids, where only a couple specific grid lines are drawn (say a horizontal line at 0 here), are a powerful intermediate option.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="20" presentation:class="page"/>
      <draw:frame presentation:style-name="pr4" draw:text-style-name="P13" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page21" draw:style-name="dp4" draw:master-page-name="Default">
+   <draw:page draw:name="page21" draw:style-name="dp3" draw:master-page-name="Default">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr6" draw:text-style-name="P11" draw:layer="layout" svg:width="28cm" svg:height="1.356cm" svg:x="0cm" svg:y="0.508cm">
      <draw:text-box>
-      <text:p text:style-name="P7"><text:span text:style-name="T6">Tips &amp; Tricks – Grids</text:span></text:p>
+      <text:p text:style-name="P7"><text:span text:style-name="T6">Tips &amp; Tricks – Box/Frame</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr21" draw:text-style-name="P7" draw:layer="layout" svg:width="12.734cm" svg:height="17.814cm" svg:x="14.605cm" svg:y="2.506cm">
+     <draw:image xlink:href="plots/eps/convergence_of_J0_boxes.eps" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr19" draw:text-style-name="P12" draw:layer="layout" svg:width="14.097cm" svg:height="18.542cm" svg:x="0.509cm" svg:y="2.549cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T29">Left and bottom axes are usually drawn</text:span></text:p>
+      <text:p><text:span text:style-name="T29"/></text:p>
+      <text:p><text:span text:style-name="T29">Right and top axes sometimes drawn</text:span></text:p>
+      <text:p><text:span text:style-name="T29"/></text:p>
+      <text:p><text:span text:style-name="T29">Why remove an axis?</text:span></text:p>
+      <text:list text:style-name="L1">
+       <text:list-item>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T29">Reduce clutter</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T29">Accommodate an inset</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T29">Accommodate a large legend</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+      <text:p><text:span text:style-name="T29"/></text:p>
+      <text:p><text:span text:style-name="T29">Problems</text:span></text:p>
+      <text:list text:continue-numbering="true" text:style-name="L1">
+       <text:list-item>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T29">Hard to determine values in plot</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -4340,7 +4473,7 @@
           <text:p><text:span text:style-name="T16">Image divided into an array of squares</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T16">Squares are called </text:span><text:span text:style-name="T29">Pixels</text:span></text:p>
+          <text:p><text:span text:style-name="T16">Squares are called </text:span><text:span text:style-name="T30">Pixels</text:span></text:p>
          </text:list-item>
          <text:list-item>
           <text:p><text:span text:style-name="T16">Each pixel is a single solid color</text:span></text:p>
@@ -4358,10 +4491,10 @@
           <text:p><text:span text:style-name="T16">Screens &amp; projectors are pixel based</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p><text:span text:style-name="T16">Screen: 640</text:span><text:span text:style-name="T30">×480 to 2560×1600</text:span></text:p>
+            <text:p><text:span text:style-name="T16">Screen: 640</text:span><text:span text:style-name="T31">×480 to 2560×1600</text:span></text:p>
            </text:list-item>
            <text:list-item>
-            <text:p><text:span text:style-name="T16">Projector: typically 1024</text:span><text:span text:style-name="T30">×</text:span><text:span text:style-name="T31">768</text:span></text:p>
+            <text:p><text:span text:style-name="T16">Projector: typically 1024</text:span><text:span text:style-name="T31">×</text:span><text:span text:style-name="T32">768</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
@@ -6672,25 +6805,25 @@
       </office:binary-data>
      </draw:image>
     </draw:frame>
-    <draw:polygon draw:style-name="gr21" draw:text-style-name="P18" draw:layer="layout" svg:width="5.079cm" svg:height="1.904cm" svg:x="20.368cm" svg:y="15.249cm" svg:viewBox="0 0 5080 1905" draw:points="0,1905 2540,0 5080,1270">
+    <draw:polygon draw:style-name="gr22" draw:text-style-name="P19" draw:layer="layout" svg:width="5.079cm" svg:height="1.904cm" svg:x="20.368cm" svg:y="15.249cm" svg:viewBox="0 0 5080 1905" draw:points="0,1905 2540,0 5080,1270">
      <text:p/>
     </draw:polygon>
-    <draw:frame draw:style-name="gr22" draw:text-style-name="P19" draw:layer="layout" svg:width="1.984cm" svg:height="0.962cm" svg:x="18.971cm" svg:y="17.154cm">
+    <draw:frame draw:style-name="gr23" draw:text-style-name="P20" draw:layer="layout" svg:width="1.984cm" svg:height="0.962cm" svg:x="18.971cm" svg:y="17.154cm">
      <draw:text-box>
       <text:p>(0, 0)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr22" draw:text-style-name="P19" draw:layer="layout" svg:width="1.984cm" svg:height="0.962cm" svg:x="22.146cm" svg:y="14.287cm">
+    <draw:frame draw:style-name="gr23" draw:text-style-name="P20" draw:layer="layout" svg:width="1.984cm" svg:height="0.962cm" svg:x="22.146cm" svg:y="14.287cm">
      <draw:text-box>
       <text:p>(8, 8)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr23" draw:text-style-name="P19" draw:layer="layout" svg:width="2.335cm" svg:height="0.962cm" svg:x="25.448cm" svg:y="15.727cm">
+    <draw:frame draw:style-name="gr24" draw:text-style-name="P20" draw:layer="layout" svg:width="2.335cm" svg:height="0.962cm" svg:x="25.448cm" svg:y="15.727cm">
      <draw:text-box>
       <text:p>(16, 2)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr24" draw:text-style-name="P20" draw:layer="layout" svg:width="8.503cm" svg:height="2.423cm" svg:x="18.929cm" svg:y="18.116cm">
+    <draw:frame draw:style-name="gr25" draw:text-style-name="P21" draw:layer="layout" svg:width="8.503cm" svg:height="2.423cm" svg:x="18.929cm" svg:y="18.116cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T14">Line Thickness = 5 pt</text:span></text:p>
       <text:p><text:span text:style-name="T14">Line Color = #000000</text:span></text:p>
@@ -6881,56 +7014,56 @@
           <text:p><text:span text:style-name="T16">Obtained or made graphics in one format but need them in another</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T16">Need to change colorspace (RGB </text:span><text:span text:style-name="T30">↔</text:span><text:span text:style-name="T31"> CMYK)</text:span></text:p>
+          <text:p><text:span text:style-name="T16">Need to change colorspace (RGB </text:span><text:span text:style-name="T31">↔</text:span><text:span text:style-name="T32"> CMYK)</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
       </text:list>
-      <text:p><text:span text:style-name="T31"/></text:p>
-      <text:p><text:span text:style-name="T31">General conversion utilities</text:span></text:p>
+      <text:p><text:span text:style-name="T32"/></text:p>
+      <text:p><text:span text:style-name="T32">General conversion utilities</text:span></text:p>
       <text:list text:continue-numbering="true" text:style-name="L1">
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T31">Almost any hotograph/picture/image viewer or editor</text:span></text:p>
+          <text:p><text:span text:style-name="T32">Almost any hotograph/picture/image viewer or editor</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T31">Scientific &amp; mathematical software suites &amp; environments</text:span></text:p>
+          <text:p><text:span text:style-name="T32">Scientific &amp; mathematical software suites &amp; environments</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T31">Inkscape</text:span></text:p>
+          <text:p><text:span text:style-name="T32">Inkscape</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T31">GIMP – GNU Image Manipulation Prograpm</text:span></text:p>
+          <text:p><text:span text:style-name="T32">GIMP – GNU Image Manipulation Prograpm</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T31">Adobe Suite (Acrobat, Illustrator, and Photoshop)</text:span></text:p>
+          <text:p><text:span text:style-name="T32">Adobe Suite (Acrobat, Illustrator, and Photoshop)</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T31">Libre/Open Office Draw</text:span></text:p>
+          <text:p><text:span text:style-name="T32">Libre/Open Office Draw</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T31">ImageMagick (</text:span><text:span text:style-name="T32">convert</text:span><text:span text:style-name="T31"> command line utility)</text:span></text:p>
+          <text:p><text:span text:style-name="T32">ImageMagick (</text:span><text:span text:style-name="T33">convert</text:span><text:span text:style-name="T32"> command line utility)</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T31">Ghostscript (</text:span><text:span text:style-name="T32">gs</text:span><text:span text:style-name="T31"> command line utility or through other programs)</text:span></text:p>
+          <text:p><text:span text:style-name="T32">Ghostscript (</text:span><text:span text:style-name="T33">gs</text:span><text:span text:style-name="T32"> command line utility or through other programs)</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
       </text:list>
-      <text:p><text:span text:style-name="T31"/></text:p>
-      <text:p><text:span text:style-name="T31">Specific conversion utilities</text:span></text:p>
+      <text:p><text:span text:style-name="T32"/></text:p>
+      <text:p><text:span text:style-name="T32">Specific conversion utilities</text:span></text:p>
       <text:list text:continue-numbering="true" text:style-name="L1">
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T31">EPS </text:span><text:span text:style-name="T30">to</text:span><text:span text:style-name="T31"> PDF – </text:span><text:span text:style-name="T32">epspdf</text:span><text:span text:style-name="T31">, epspdftk, </text:span><text:span text:style-name="T32">epstopdf</text:span><text:span text:style-name="T31">, </text:span><text:span text:style-name="T32">ps2pdf</text:span></text:p>
+          <text:p><text:span text:style-name="T32">EPS </text:span><text:span text:style-name="T31">to</text:span><text:span text:style-name="T32"> PDF – </text:span><text:span text:style-name="T33">epspdf</text:span><text:span text:style-name="T32">, epspdftk, </text:span><text:span text:style-name="T33">epstopdf</text:span><text:span text:style-name="T32">, </text:span><text:span text:style-name="T33">ps2pdf</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T31">PDF to PS – </text:span><text:span text:style-name="T32">pdf2ps</text:span><text:span text:style-name="T31"> &amp; </text:span><text:span text:style-name="T32">pdftops</text:span></text:p>
+          <text:p><text:span text:style-name="T32">PDF to PS – </text:span><text:span text:style-name="T33">pdf2ps</text:span><text:span text:style-name="T32"> &amp; </text:span><text:span text:style-name="T33">pdftops</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T31">PDF to SVG – </text:span><text:span text:style-name="T32">pdf2svg</text:span></text:p>
+          <text:p><text:span text:style-name="T32">PDF to SVG – </text:span><text:span text:style-name="T33">pdf2svg</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -7002,7 +7135,7 @@
        </text:list-item>
       </text:list>
       <text:p><text:span text:style-name="T16"/></text:p>
-      <text:p><text:span text:style-name="T29">EMBED FONTS!!!!</text:span></text:p>
+      <text:p><text:span text:style-name="T30">EMBED FONTS!!!!</text:span></text:p>
       <text:list text:continue-numbering="true" text:style-name="L1">
        <text:list-item>
         <text:list>
@@ -7037,79 +7170,79 @@
       <text:p text:style-name="P7"><text:span text:style-name="T6">Software &amp; Formats – Presentations</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr25" draw:text-style-name="P21" draw:layer="layout" svg:width="26.924cm" svg:height="18.559cm" svg:x="0.508cm" svg:y="2.255cm">
+    <draw:frame draw:style-name="gr26" draw:text-style-name="P22" draw:layer="layout" svg:width="26.924cm" svg:height="18.559cm" svg:x="0.508cm" svg:y="2.255cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T33">Note: EPS, SVG, and EMF/WMF vector image support is bad in some software.</text:span></text:p>
-      <text:p><text:span text:style-name="T33"/></text:p>
-      <text:p><text:span text:style-name="T33">Microsoft PowerPoint – PPT &amp; PPTX and now can convert to PDF</text:span></text:p>
+      <text:p><text:span text:style-name="T34">Note: EPS, SVG, and EMF/WMF vector image support is bad in some software.</text:span></text:p>
+      <text:p><text:span text:style-name="T34"/></text:p>
+      <text:p><text:span text:style-name="T34">Microsoft PowerPoint – PPT &amp; PPTX and now can convert to PDF</text:span></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T33">Most commonly used</text:span></text:p>
+          <text:p><text:span text:style-name="T34">Most commonly used</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T33">WYSIWYG (What You See Is What You Get)</text:span></text:p>
+          <text:p><text:span text:style-name="T34">WYSIWYG (What You See Is What You Get)</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T33">Image formats: EPS, PNG, JPG, TIFF, GIF, BMP, EMF/WMF, ...</text:span></text:p>
-         </text:list-item>
-        </text:list>
-       </text:list-item>
-      </text:list>
-      <text:p><text:span text:style-name="T33"/></text:p>
-      <text:p><text:span text:style-name="T33">Libre/Open Office Impress – ODP and converts to PDF</text:span></text:p>
-      <text:list text:continue-numbering="true" text:style-name="L1">
-       <text:list-item>
-        <text:list>
-         <text:list-item>
-          <text:p><text:span text:style-name="T33">Second most common</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p><text:span text:style-name="T33">WYSIWYG (What You See Is What You Get)</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p><text:span text:style-name="T33">Free Software</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p><text:span text:style-name="T33">Mostly compatible with Microsoft PowerPoint (can read/write its files)</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p><text:span text:style-name="T33">Image formats: EPS, SVG, PNG, JPG, TIFF, GIF, BMP, EMF, ... </text:span></text:p>
+          <text:p><text:span text:style-name="T34">Image formats: EPS, PNG, JPG, TIFF, GIF, BMP, EMF/WMF, ...</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
       </text:list>
-      <text:p><text:span text:style-name="T33"/></text:p>
-      <text:p><text:span text:style-name="T33">Beamer – PDF or DVI optionally to PS or PDF</text:span></text:p>
+      <text:p><text:span text:style-name="T34"/></text:p>
+      <text:p><text:span text:style-name="T34">Libre/Open Office Impress – ODP and converts to PDF</text:span></text:p>
       <text:list text:continue-numbering="true" text:style-name="L1">
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T33">LaTeX based (it is a package)</text:span></text:p>
+          <text:p><text:span text:style-name="T34">Second most common</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T33">Uses markup – describe how slides should look instead of WYSIWYG</text:span></text:p>
+          <text:p><text:span text:style-name="T34">WYSIWYG (What You See Is What You Get)</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T33">Free Software</text:span></text:p>
+          <text:p><text:span text:style-name="T34">Free Software</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T33">Image formats: {PDF, PNG, JPG} or {EPS}</text:span></text:p>
+          <text:p><text:span text:style-name="T34">Mostly compatible with Microsoft PowerPoint (can read/write its files)</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T34">Image formats: EPS, SVG, PNG, JPG, TIFF, GIF, BMP, EMF, ... </text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
       </text:list>
-      <text:p><text:span text:style-name="T33"/></text:p>
-      <text:p><text:span text:style-name="T33">Apple Keynote – KEY and converts to PDF</text:span></text:p>
+      <text:p><text:span text:style-name="T34"/></text:p>
+      <text:p><text:span text:style-name="T34">Beamer – PDF or DVI optionally to PS or PDF</text:span></text:p>
       <text:list text:continue-numbering="true" text:style-name="L1">
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T33">WYSIWYG (What You See Is What You Get)</text:span></text:p>
+          <text:p><text:span text:style-name="T34">LaTeX based (it is a package)</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T33">Image formats: PDF, JPG, PNG, TIFF, and GIF</text:span></text:p>
+          <text:p><text:span text:style-name="T34">Uses markup – describe how slides should look instead of WYSIWYG</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T34">Free Software</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T34">Image formats: {PDF, PNG, JPG} or {EPS}</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+      <text:p><text:span text:style-name="T34"/></text:p>
+      <text:p><text:span text:style-name="T34">Apple Keynote – KEY and converts to PDF</text:span></text:p>
+      <text:list text:continue-numbering="true" text:style-name="L1">
+       <text:list-item>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T34">WYSIWYG (What You See Is What You Get)</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T34">Image formats: PDF, JPG, PNG, TIFF, and GIF</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -7130,7 +7263,7 @@
       <text:p text:style-name="P7"><text:span text:style-name="T6">Software &amp; Formats – Papers &amp; Theses</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr26" draw:text-style-name="P12" draw:layer="layout" svg:width="26.924cm" svg:height="19.347cm" svg:x="0.508cm" svg:y="2.555cm">
+    <draw:frame draw:style-name="gr27" draw:text-style-name="P12" draw:layer="layout" svg:width="26.924cm" svg:height="19.347cm" svg:x="0.508cm" svg:y="2.555cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T16">Note: EPS, SVG, and EMF/WMF vector image support is bad in some software.</text:span></text:p>
       <text:p><text:span text:style-name="T16"/></text:p>
