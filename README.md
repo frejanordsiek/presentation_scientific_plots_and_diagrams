@@ -11,7 +11,7 @@ The presentation is a Flat XML Open Document Presentation (`.fpod`), which can b
 
 The plots are made by the [Jupyter/IPython](https://ipython.org/) notebook [codes/plots_for_presentation.ipynb](./codes/plots_for_presentation.ipynb), which uses Python. The required python packages are
 
-* jupyter: https://ipython.org
+* jupyter: https://ipython.org (IPython >= 4.0)
 * numpy: http://www.numpy.org
 * scipy: https://www.scipy.org
 * matplotlib : http://matplotlib.org
