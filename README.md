@@ -24,6 +24,6 @@ Copyright (c) 2015, Freja Nordsiek
 
 The presentation, diagrams, and [Jupyter/IPython](https://ipython.org/) notebook and code to make the plots use a CC BY 4.0 License ([COPYING.txt](./COPYING.txt)). This is done to encourage adaptation and improvement of this presentation and its materials by others to give similar presentations as well as providing useful code samples for plotting.
 
-Creative Commons Attribution 4.0 International Public License
-Description: https://creativecommons.org/licenses/by/4.0/
-Legal Text: https://creativecommons.org/licenses/by/4.0/legalcode
+Creative Commons Attribution 4.0 International Public License  
+Description: https://creativecommons.org/licenses/by/4.0/  
+Legal Text: https://creativecommons.org/licenses/by/4.0/legalcode  
