@@ -3,6 +3,17 @@ Plots & Diagrams for Presentations, Papers, and Theses
 
 A presentation on making plots and diagrams for presentations, papers, and theses. The target audience, at this time, is undergraduate and graduate students in STEM fields.
 
+Version: 0.1.2
+
+
+Location of Presentation PDFs
+-----------------------------
+
+The PDFs of this presentation (current version and older versions) are stored on [figshare](http://figshare.com/) at
+
+Freja Nordsiek. Making Plots and Diagrams for Presentations, Papers, and Theses. *fig_share_*. (2015)  
+DOI: [10.6084/m9.figshare.1590982](http://dx.doi.org/10.6084/m9.figshare.1590982)
+
 
 Building
 --------
