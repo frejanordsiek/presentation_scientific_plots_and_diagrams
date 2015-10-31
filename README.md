@@ -11,7 +11,7 @@ Location of Presentation PDFs
 
 The PDFs of this presentation (current version and older versions) are stored on [figshare](http://figshare.com/) at
 
-Freja Nordsiek. Making Plots and Diagrams for Presentations, Papers, and Theses. *fig_share_*. (2015)  
+Freja Nordsiek. Making Plots and Diagrams for Presentations, Papers, and Theses. *figshare*. (2015)  
 DOI: [10.6084/m9.figshare.1590982](http://dx.doi.org/10.6084/m9.figshare.1590982)
 
 
