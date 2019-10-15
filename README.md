@@ -3,7 +3,7 @@ Plots & Diagrams for Presentations, Papers, and Theses
 
 A presentation on making plots and diagrams for presentations, papers, and theses. The target audience, at this time, is undergraduate and graduate students in STEM fields.
 
-Version: 0.1.2
+Version: 0.2
 
 
 Location of Presentation PDFs
@@ -31,7 +31,7 @@ The plots are made by the [Jupyter/IPython](https://ipython.org/) notebook [code
 License
 -------
 
-Copyright (c) 2015, Freja Nordsiek
+Copyright (c) 2015-2019, Freja Nordsiek
 
 The presentation, diagrams, and [Jupyter/IPython](https://ipython.org/) notebook and code to make the plots use a CC BY 4.0 License ([COPYING.txt](./COPYING.txt)). This is done to encourage adaptation and improvement of this presentation and its materials by others to give similar presentations as well as providing useful code samples for plotting.
 
